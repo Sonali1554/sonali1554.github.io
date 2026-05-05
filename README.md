@@ -68,7 +68,7 @@ git clone https://github.com/sonali1554/your-repo-name.git
 
 * 📧 Email: (sonalikr1554@gmail.com)
 * 💼 LinkedIn: (https://www.linkedin.com/in/sonali-kumari1207/)
-* 💻 GitHub: https://github.com/sonali1554
+* 💻 GitHub: (https://github.com/sonali1554)
 
 ---
 
